@@ -1,1 +1,1 @@
-# FronEnd
+<p>Курс по FrontEnd</p>
