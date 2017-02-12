@@ -1,0 +1,18 @@
+$ git log
+commit 5e4f5186a9ba0cf1e92b90e843e5765174b19ec7
+Author: Diego <stas.krasovski@yahoo.com>
+Date:   Sun Feb 12 17:58:47 2017 +0300
+
+    add status.txt
+
+commit 3ce497a1e560d3a8d5fe1cf4714c19920b0095a5
+Author: Diego <stas.krasovski@yahoo.com>
+Date:   Sun Feb 12 17:55:38 2017 +0300
+
+    add .gitignore
+
+commit de2ce9835682ce1c39e874a3cee586b1fc11ec49
+Author: Diego <stas.krasovski@yahoo.com>
+Date:   Sun Feb 12 17:34:38 2017 +0300
+
+    add .gitignore
